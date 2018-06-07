@@ -18,7 +18,7 @@ words: ran,knew,had,saw,bought
 ---
 spring:
   profiles: article
-words: a,the
+words: the
 
 ---
 spring:
